@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  overflow: hidden;
+  background: #000;
+  font-family: Arial, sans-serif;
+}
+
+#game {
+  display: block;
+}
+
+#ui {
+  position: absolute;
+  color: white;
+  padding: 10px;
+  z-index: 10;
+}
